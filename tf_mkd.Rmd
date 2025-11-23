@@ -1,6 +1,7 @@
 ---
-title: "TITULO"
-author: "Nicole Fredericci do Amaral"
+title: "Análise do tamanho dos crânios dos Cães de van Giffen"
+subtitle: "Um estudo estatístico de associação entre as medidas dos crânios e as épocas de civilizações em atividade no note da Holanda."
+author: "Nicole Fredericci do Amaral - ra 204355"
 date: "2025-11-14"
 output: pdf_document
 bibliography: referencias.bib
@@ -553,6 +554,7 @@ Ainda, a ANOVA foi utilizada para testar se a média dos crânios nos diferentes
 
 ## Códigos
 
-GITHUB
+Os códigos usados na versão final deste estudo, assim como os códigos usados em análises secundárias e em versões premilinares do relatório, podem ser acessados em: <https://github.com/NFredericci/ME731.git>.
 
 ## Bibliografia
+
